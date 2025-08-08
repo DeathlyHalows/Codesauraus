@@ -1,0 +1,14 @@
+customtkinter
+Pillow
+opencv-python
+pytesseract
+deep-translator
+sounddevice
+scipy
+pyttsx3
+gTTS
+faster-whisper
+pygame
+torch==2.0.1
+torchaudio==2.0.2
+numpy
